@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "960093291088",
+    "project_id": "yazevimm",
+    "storage_bucket": "yazevimm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960093291088:android:6aca36ebc0cde3c86cc755",
+        "android_client_info": {
+          "package_name": "com.YazEvim.yazevim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960093291088-nsji36h7e48cainp683dk4gmngjot0ni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXCO9FH-MmiUocU6Z--L_RAUlhzT_lh1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960093291088-nsji36h7e48cainp683dk4gmngjot0ni.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
